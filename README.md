@@ -1,6 +1,4 @@
 # Tutedude_7902
-This repository contains two Python scripts:
-
 ## Task 1:
 It adds,subtracts,multiplies and divides any two numbers.
 
